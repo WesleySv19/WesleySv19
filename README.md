@@ -1,16 +1,24 @@
-# Olá, eu sou o Wesley da Silva :rocket:
+# Olá, eu sou o Wesley da Silva :desktop_computer: :rocket:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleySv19&show_icons=true&theme=tokyonight)
 
 ### Contatos:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-silva-4617a1222/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/wesleysv19/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://wesleyysilvaa1912@gmail.com)
 
-# Atualização:
-Atualmente estudando as principais tecnologias de Front-End, Html, Css, Js e futuramente React
+
+<div style="display: flex;">
+  
+   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+          
+</div>
+
 
 # Objetivos:
-Estou iniciando minha caminhada como dev, por isso procuro novas oportunidades, no momento quero me dedicar na carreira como Front-End e futuramente o Back-end, até chegarmos ao tão sonhado Full-Stack.
+Estou em busca de me aprimorar e continuar estudando as principais stacks para o **Desenvolvimento Web** para poder contribuir cada vez mais.
 
 
 
