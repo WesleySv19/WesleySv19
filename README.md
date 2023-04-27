@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&duration=500&size=32&pause=1000&color=00FF7F&width=435&lines=Olá,+sou+o+Wesley+da+Silva;Seja+muito+bem+vindo(a);Atualmente+cusando;Engenharia+de+Software.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&duration=500&size=32&pause=1000&color=00FF7F&width=435&lines=Olá,+sou+o+Wesley+da+Silva;Seja+muito+bem+vindo(a);Atualmente+cursando;Engenharia+de+Software.)](https://git.io/typing-svg)
 
 
 ### Contatos:
