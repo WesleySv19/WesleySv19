@@ -1,7 +1,7 @@
 # Olá, eu sou o Wesley da Silva :desktop_computer: :rocket:
 
 ### Contatos:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-silva-4617a1222/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleysv19/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://wesleyysilvaa1912@gmail.com)
 
 ## Desenvolvimento Web
