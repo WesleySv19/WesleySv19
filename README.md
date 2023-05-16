@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&duration=2000&size=32&pause=1000&color=00FF7F&width=435&lines=Olá,+sou+o+Wesley+da+Silva;Seja+muito+bem+vindo(a))](https://git.io/typing-svg)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleySv19&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Contatos:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleysv19/)
