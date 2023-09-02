@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&duration=2000&size=32&pause=1000&color=00FF7F&width=435&lines=Olá,+sou+o+Wesley+da+Silva;Seja+muito+bem+vindo(a))](https://git.io/typing-svg)
 
-# Contatos:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleysv19/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://wesleyysilvaa1912@gmail.com)
+<hr/>
 
 # Desenvolvimento Web
 <div style="display: inline_block">
@@ -13,6 +11,11 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
+
+## Contatos:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleysv19/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://wesleyysilvaa1912@gmail.com)
+[![Portólio](https://img.shields.io/badge/Portfólio-gray?style=for-the-badge&)](https://wesleysv19.github.io/portfolio/)
 
 
 ## Objetivo:
