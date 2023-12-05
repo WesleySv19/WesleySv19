@@ -14,7 +14,6 @@
 
 ## Contatos:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleysv19/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://wesleyysilvaa1912@gmail.com)
 [![Portólio](https://img.shields.io/badge/Portfólio-gray?style=for-the-badge&)](https://wesleysv19.github.io/portfolio/)
 
 
