@@ -1,7 +1,7 @@
 
 ---
 
-# Wesley da Silva - GitHub Profile
+# 👋 Wesley da Silva - GitHub Profile 💻
 ```
 {
   name: wesley,
@@ -12,19 +12,19 @@
 }
 ```
 
-## Sobre Mim
+## 🌱Sobre Mim
 
 - 🌍 Localização: Belo Horizonte, MG, Brasil
 - 🎓 Graduação: Cursando Engenharia de Software pela Anhanguera Ampli (2022, 2025)
 - 💼 Atualmente estou em busca de minha primeira vaga como desenvolvedor
 
-## Tecnologias e Ferramentas Favoritas
+## 🔥Tecnologias e Ferramentas Favoritas
 
 - 🚀 Linguagens de Programação: JAVASCRIPT, PHP, TYPESCRIPT
 - 🛠️ Frameworks e Bibliotecas: JQUERY, REACT, BOOTSTRAP
 - 🔍Bancos de Dados: MYSQL
 
-## Entre em Contato
+##  📱Entre em Contato
 
 - 💬 [LinkedIn:](https://www.linkedin.com/in/wesleysv19/)
 - 🌐 [Website:](https://wesleysv19.github.io/portfolio/)
