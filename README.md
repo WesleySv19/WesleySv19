@@ -26,6 +26,6 @@
 
 ##  📱Entre em Contato
 
-- 💬 [LinkedIn:](https://www.linkedin.com/in/wesleysv19/)
-- 🌐 [Website:](https://wesleysv19.github.io/portfolio/)
+- 💬 [LinkedIn](https://www.linkedin.com/in/wesleysv19/)
+- 🌐 [Website](https://wesleysv19.github.io/portfolio/)
 
