@@ -21,7 +21,7 @@
 ## 🔥Tecnologias e Ferramentas Favoritas
 
 - 🚀 Linguagens de Programação: JAVASCRIPT, PHP, TYPESCRIPT
-- 🛠️ Frameworks e Bibliotecas: JQUERY, REACT, BOOTSTRAP
+- 🛠️ Frameworks e Bibliotecas: JQUERY, REACT, BOOTSTRAP, NODE.JS
 - 🔍Bancos de Dados: MYSQL
 
 ##  📱Entre em Contato
