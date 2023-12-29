@@ -18,7 +18,7 @@
 - 🎓 Graduação: Cursando Engenharia de Software pela Anhanguera Ampli (2022, 2025)
 - 💼 Estou em busca de minha primeira vaga como desenvolvedor Web!
 
-## 🔥Tecnologias e Ferramentas Favoritas
+## 🔥Skills
 
 - 🚀 Linguagens de Programação: JAVASCRIPT, PHP, TYPESCRIPT
 - 🛠️ Frameworks e Bibliotecas: JQUERY, REACT, BOOTSTRAP, NODE.JS
