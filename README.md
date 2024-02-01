@@ -12,7 +12,7 @@
 }
 ```
 
-## 🌱Sobre Mim
+## 🌱Sobre
 
 - 🌍 Localização: Belo Horizonte, MG, Brasil
 - 🎓 Graduação: Cursando Engenharia de Software pela Anhanguera Ampli (2022, 2025)
