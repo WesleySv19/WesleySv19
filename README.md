@@ -21,8 +21,8 @@
 ## 🔥Skills
 
 - 🚀 Linguagens de Programação: JAVASCRIPT, TYPESCRIPT
-- 🛠️ Frameworks e Bibliotecas: JQUERY, REACT, BOOTSTRAP, NODE.JS
-- 🔍Bancos de Dados: MYSQL
+- 🛠️ Frameworks e Bibliotecas: JQUERY, REACT, BOOTSTRAP, NODE.JS, EXPRESS
+- 🔍Bancos de Dados: MySQL, MongoDB
 
 ##  📱Entre em Contato
 
