@@ -15,7 +15,7 @@
 ## 🌱Sobre
 
 - 🌍 Belo Horizonte, MG, Brasil
-- 🎓 Cursando Engenharia de Software pela Anhanguera Ampli (2022, 2025)
+- 🎓 Cursando Engenharia de Software pela Anhanguera Ampli (2022, 2026)
 - 💼 Estou em busca de minha primeira vaga como desenvolvedor Web!
 
 ## 🔥Skills
