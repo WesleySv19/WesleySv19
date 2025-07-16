@@ -1,31 +1,15 @@
 
----
+<h1 align="center">👨‍💻 Wesley da Silva</h1>
+<p align="center">Engenharia de Software | Dev em formação </p>
 
-# 👋 Wesley da Silva 💻
-```
+```json
 {
-  name: wesley,
-  age: 23,
-  country: brazil,
-  estate: minas_gerais,
-  city: belo_horizonte
+  "name": "Wesley da Silva",
+  "age": 23,
+  "location": "Belo Horizonte, MG - Brasil",
+  "goal": "First dev job 🚀",
+  "status": "Studying Web Development",
+  "mindset": "Keep Learning, Keep Building"
 }
-```
 
-## 🌱Sobre
-
-- 🌍 Belo Horizonte, MG, Brasil
-- 🎓 Cursando Engenharia de Software pela Anhanguera Ampli (2022, 2026)
-- 💼 Estou em busca de minha primeira vaga como desenvolvedor Web!
-
-## 🔥Skills
-
-- 🚀 Linguagens de Programação: Javascript, Typescript, PHP
-- 🛠️ Frameworks e Bibliotecas: jQuery, React, Bootstrap, Node.Js, Express
-- 🔍 Bancos de Dados: MySQL, MongoDB
-
-##  📱Entre em Contato
-
-- 💬 [LinkedIn](https://www.linkedin.com/in/wesleysv19/)
-- 🌐 [Portfólio](https://www.wesleysilva.dev/)
 
