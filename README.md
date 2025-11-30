@@ -5,7 +5,7 @@
 ```json
 {
   "name": "Wesley da Silva",
-  "age": 23,
+  "age": 24,
   "location": "Belo Horizonte, MG - Brasil",
   "goal": "First dev job 🚀",
   "status": "Studying Web Development",
